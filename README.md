@@ -6,7 +6,7 @@
 
 ## Description
 
-Custom Furniture is a project/study that provides a platform to create uniques furnitures. The project is developed with HTML, CSS, and JavaScript and aims to offer users a selection of affordable customs furniture packages.
+Custom Furniture is a project/study that provides a platform to create uniques furnitures. The project is developed with HTM and CSS, to offer users a selection of affordable customs furniture packages.
 
 ## Features
 
